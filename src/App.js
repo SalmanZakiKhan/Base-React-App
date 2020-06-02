@@ -7,9 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This App is created by Muhammad Salman Zaki
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -19,7 +16,8 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
+       <p>This App is created by Muhammad Salman Zaki</p>
+     </div>
   );
 }
 
