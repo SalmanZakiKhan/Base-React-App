@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>This App is created by Muhammad Salman Zaki</p>
     </div>
   );
 }
